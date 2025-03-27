@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Note</string>
+    <string name="btntxt">Create New Note</string>
+    <string name="savebtn">Save</string>
+    <string name="backbtn">Back</string>
+    <string name="titlehint">Title</string>
+    <string name="msghint">Start Typing...</string>
+
+</resources>
